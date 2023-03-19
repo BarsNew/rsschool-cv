@@ -1,1 +1,1 @@
-https://BarsNew.github.io/rsschool-cv/cv
+https://BarsNew.github.io/rsschool-cv/
