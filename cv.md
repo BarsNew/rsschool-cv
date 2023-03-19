@@ -1,11 +1,11 @@
 # Ivan Unuk
 ---
-![Ivan Unuk](img\iv.jpg)
+![Ivan Unuk](img/iv.jpg)
 ## Contact information
-__Location:__ Minsk, Belarus
-__Phone:__ +37529 365 41 02
-__Email:__ vnuck.iwan@yandex.ru
-__GitHub:__ https://github.com/BarsNew
+> __Location:__ Minsk, Belarus  
+__Phone:__ +37529 365 41 02  
+__Email:__ vnuck.iwan@yandex.ru  
+__GitHub:__ https://github.com/BarsNew  
 
 ---
 ## About me
