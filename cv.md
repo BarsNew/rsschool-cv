@@ -24,6 +24,7 @@ I am currently working as a content manager. I haven't had any experience in pro
 * JavaScript
 * Git
 * PHP
+
 ---
 ## Code example
 ```
