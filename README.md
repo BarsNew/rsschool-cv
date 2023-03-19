@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BarsNew.github.io/rsschool-cv/cv
